@@ -10,4 +10,4 @@ Efficient C++ implementation
 
 **Background**
 
-This library was developed  from Steve Dumble's course on attitude representation. It aims to provide a robust tool for engineers, game developers, and 3D graphics programmers working with 3D rotations and orientations. I would highly recommend this course. I plan to take more of his courses. 
+This library was developed  from Steve Dumble's course on attitude representation. It aims to provide a robust tool for engineers, game developers, and 3D graphics programmers working with 3D rotations and orientations. I would highly recommend this course to anybody who fits the previously mentioned profile. I plan to take more of his courses. 
