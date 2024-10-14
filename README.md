@@ -1,7 +1,8 @@
 **Attitude Math Library**
 
 A C++ library for representing and manipulating attitude in 3D space, including implementations for Direction Cosine Matrices (DCMs), Euler Angles, and Quaternions.
-Features
+
+**Features**
 
 Represent attitude using DCMs, Euler Angles, and Quaternions
 Convert between different attitude representations
