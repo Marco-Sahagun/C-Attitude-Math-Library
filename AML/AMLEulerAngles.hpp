@@ -1,8 +1,3 @@
-// ######################################################################### //
-// Attitude Math Library
-// Copyright (c) 2021 Dr. Steven Dumble Phd
-// Distributed under the MIT Software License (See accompanying file LICENSE)
-// ######################################################################### //
 
 #ifndef AML_AMLEULERANGLES_H
 #define AML_AMLEULERANGLES_H
