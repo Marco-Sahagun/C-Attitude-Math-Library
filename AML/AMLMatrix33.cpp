@@ -1,9 +1,3 @@
-// ######################################################################### //
-// Attitude Math Library
-// Copyright (c) 2021 Dr. Steven Dumble Phd
-// Distributed under the MIT Software License (See accompanying file LICENSE)
-// ######################################################################### //
-
 #include "AMLMatrix33.hpp"
 #include "AMLVector3.hpp"
 #include <cmath>
